@@ -3,9 +3,9 @@ I am currently learning HTML, CSS and JavaScript.
 I am looking forward to learning more languages and building more projects.
 
 Click on the follow bottom to view my recent projects.
-You can link me up on my Social media platforms:
+You can link me up on my Social media platforms below:
 
-Twitter: @Ra_Sheed
+Twitter: @twitter.com/Ra_Sheed
 Facebook: @Rasheed
 Instagram: d_pathfinderr
 
